@@ -1,7 +1,15 @@
 <h1 align="center">Projeto Amigo Oculto - ONEG8 </h1>
 
+
+![Captura de tela 2025-01-25 100310](https://github.com/user-attachments/assets/e147d35a-ff5e-4b66-87aa-7dee6e358225)
+
+
+
+
+
 O Amigo Oculto é uma aplicação web simples que permite que você organize e sorteie amigos secretos de maneira prática. O usuário pode adicionar nomes à lista, visualizar os nomes já adicionados e, em seguida, realizar o sorteio do amigo secreto. A aplicação é construída com HTML, CSS e JavaScript.
-Meu primeiro Challenge do Hello One G8, do projeto da Oracle + Alura.
+
+Meu primeiro Challenge do Hello One G8, do projeto da Oracle + Alura, tive algumas dificuldades no inicio, então usei como base o js do Jogo do Número Secreto já que algumas funcionalidades seriam as mesmas, como: o sorteio de uma variavel aleatoria, a geração de uma array, o campo sendo limpo após o preenchimento e uma caixa de  dialogo indicando a necessidade do preenchimento do campo. Além disso, alterei alguns dados no HTML, como a imagem que apareceria e a palavra "secreto" por "oculto". Espero em breve me aperfeiçoar para adicionar mais funcionalidade para que ele vire de fato um sorteador de Amigo Oculto, que possa ser usado em datas comemorativas ou outros fins que precise de um par de sorteados entre si, que cada usuario e participante do sorterio receba via e-mail ou telefone um link para poder ver quem é o seu sorteado,que tenha sigilo entre os participantes e que não saia a mesma pessoa que está logada. Ademais, também tive difculdades com o README, em adicionar imagens e configurações, esse primeiro será basicamente o texto, continuarei estudando e textando para que no próximo ele esteja melhor elaborado. Espero que gostem desse projeto! 
 
 <h1 align="center">Funcionalidades </h1>
 
